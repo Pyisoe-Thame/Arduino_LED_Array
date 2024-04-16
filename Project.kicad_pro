@@ -600,8 +600,16 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "./",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
@@ -618,7 +626,7 @@
     ],
     [
       "6c3a566e-c2bf-4eeb-9ff4-b0023065f62c",
-      "Digital Headers"
+      "Columns and DC Jack"
     ]
   ],
   "text_variables": {}

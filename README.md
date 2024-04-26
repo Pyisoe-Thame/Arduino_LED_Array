@@ -20,15 +20,14 @@ While it may not be able to give HIGH to all the LEDs at once, you can use time 
 
 ## Screenshots
 
-<p align="center">Front View</p>
 ![Front View](https://github.com/Pyisoe-Thame/Arduino_LED_Array/blob/main/images/PCB%20Preview%20(F).JPG)
+<p align="center">Front View</p>
 
-<p align="center">Back View</p>
 ![Back View](https://github.com/Pyisoe-Thame/Arduino_LED_Array/blob/main/images/PCB%20Preview%20(B).JPG)
+<p align="center">Back View</p>
 
-<p align="center">Preview with Components</p>
 ![Preview with Components](https://github.com/Pyisoe-Thame/Arduino_LED_Array/blob/main/images/Preview%20with%20Components.JPG)
-
+<p align="center">Preview with Components</p>
 
 
 ## License
